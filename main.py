@@ -2,7 +2,6 @@ import machine
 
 from rn2483.rn2483 import RN2483
 
-
 if __name__ == "__main__":
 
     rn2483: RN2483 = RN2483(

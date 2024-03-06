@@ -2,6 +2,7 @@
 
 from enum import Enum
 
+
 class MockConfiguration(Enum):
     """Holds the different mock configurations"""
 
